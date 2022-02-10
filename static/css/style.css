@@ -24,8 +24,12 @@ main{
     background-color: yellow;
     border-radius: 10px;
 }
-
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .imagem{
-    margin-left: 110px;
+ 
     width: 150px;
 }
