@@ -33,3 +33,9 @@ main{
  
     width: 150px;
 }
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: aquamarine;
+}
